@@ -1,0 +1,1 @@
+Date: 8.30.25 - Subject: Thoughts on github. We've just begun diving into the world of Git. I learned that a lot of programmers are now using it so that they can store their code not only locally, but remotely. This is helpful because if, for some reason, code got deleted, you would be able to use Git to access it still.
