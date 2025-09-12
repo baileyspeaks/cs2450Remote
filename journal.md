@@ -1,3 +1,5 @@
 Date: 8.30.25 - Subject: Thoughts on github. We've just begun diving into the world of Git. I learned that a lot of programmers are now using it so that they can store their code not only locally, but remotely. This is helpful because if, for some reason, code got deleted, you would be able to use Git to access it still.
 
 Date 9.5.25 - Subject: This weeks recap. We started making ideas for an app that we are going to create. We also set up flask, whcih is used to host a python web server. The assignment was pretty straight forward, but I ran into one issue. I didn't have tree installed, so I installed it with homebrew. After that, everything else worked great.
+
+Date 9.12.25 - Subject: Merge conflicts. When you run into merge conflicts, you should enter the command git pull --no-rebase. After that, you check the file and will see conflict markers. To fix the conflict, you have to edit the file and decide which version to keep, as well as remove the conflict markers. Finally, you will git add, commit, and push.
