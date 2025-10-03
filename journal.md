@@ -7,3 +7,7 @@ Date 9.12.25 - Subject: Merge conflicts. When you run into merge conflicts, you 
 Date 9.17.25 - Subject: Synchronous vs Asyncrhonous. In synchronous, the code runs line by line in sequence. This means eat task must finish before the next one starts. If a task takes a long time, the whole program is stuck until it’s done. In Asynchronous, code can start a task and then move on without waiting for it to finish. When the task is done, it notifies the program. This makes programs more efficient and responsive.
 
 Date 9.26.25 - Subject: Blob storage. Blob storage is a cloud storage solution for unstructured data, often used to store large amounts of binary data like images, videos, and documents. You would want to use this type of storage to store big files cheaply, reliably, and on a large scale.
+
+Date 10.3.25 - Subject: Project management - Kanban. The Kanban is a "seeing board" used for project management. It works simply, with three columns labled to do, in progress, and complete, with tasks underneath. Using the kanban eliminates unecessary time spent on time management for projects, which is almost never accurate.
+
+Date 10.3.25 - Subject: gantt charts. A gantt chart is a project management technique where you can show tasks across a timeline, helping you organize a project schedule and its progress. There are some flaws with it, those being that humans are notoriously bad at estimating how long something will take to do. To fix this, use the gantt chart flexibly. Use the first version as a starting point, and adjust it as the project progresses.
