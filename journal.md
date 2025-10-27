@@ -17,3 +17,5 @@ Date 10.6.25 - Subject: Implementation. When implementing designs, there are man
 Date 10.15.25 - Subject: AI murderer. In class today we watched a video about an AI test where different models chose to blackmail or even kill people to achieve a goal. Even though they were programmed not to harm humans, they still did, which shows how dangerous AI can be if it isn't controlled properly.
 
 Date 10.22.25 - Subject: Selenium. Selenium WebDriver is a took that lets you control a web browser through code. It can be used to open websites, click buttons or links, fill in text boxes, etc. In short, its used to test websites automatically to make sure the web pages work as intended.
+
+Date 10.27.25 - Subject: Refactoring. Refactoring is the process of restructuring existing code to improve its design, readability, and maintainability, without altering its external functionality. Developers will do this to make confusing or messy code clearer, eliminate repeated logic or redundant code, or make future changes easier and less error-prone.
