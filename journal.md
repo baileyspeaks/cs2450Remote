@@ -19,3 +19,5 @@ Date 10.15.25 - Subject: AI murderer. In class today we watched a video about an
 Date 10.22.25 - Subject: Selenium. Selenium WebDriver is a took that lets you control a web browser through code. It can be used to open websites, click buttons or links, fill in text boxes, etc. In short, its used to test websites automatically to make sure the web pages work as intended.
 
 Date 10.27.25 - Subject: Refactoring. Refactoring is the process of restructuring existing code to improve its design, readability, and maintainability, without altering its external functionality. Developers will do this to make confusing or messy code clearer, eliminate repeated logic or redundant code, or make future changes easier and less error-prone.
+
+Date 11.5.25 - Subject: Blue-green deployment. Blue green deployment is a strategy for releasing new application versions with zero downtime by running two identical production environments, labeled blue and green. The zero-downtime releases are a big pro, but the databases are hard to keep in sync.
