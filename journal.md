@@ -21,3 +21,5 @@ Date 10.22.25 - Subject: Selenium. Selenium WebDriver is a took that lets you co
 Date 10.27.25 - Subject: Refactoring. Refactoring is the process of restructuring existing code to improve its design, readability, and maintainability, without altering its external functionality. Developers will do this to make confusing or messy code clearer, eliminate repeated logic or redundant code, or make future changes easier and less error-prone.
 
 Date 11.5.25 - Subject: Blue-green deployment. Blue green deployment is a strategy for releasing new application versions with zero downtime by running two identical production environments, labeled blue and green. The zero-downtime releases are a big pro, but the databases are hard to keep in sync.
+
+Date 11.10.25 - Subject: Software scalabiility. Software scalability means your application can handle more users, requests, or data without crashing or slowing down too much. It ensures performance stays consistent as demand rises, it is cost efficient, and ensures future growth is possible without rebuilding the system.
