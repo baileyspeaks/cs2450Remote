@@ -23,3 +23,5 @@ Date 10.27.25 - Subject: Refactoring. Refactoring is the process of restructurin
 Date 11.5.25 - Subject: Blue-green deployment. Blue green deployment is a strategy for releasing new application versions with zero downtime by running two identical production environments, labeled blue and green. The zero-downtime releases are a big pro, but the databases are hard to keep in sync.
 
 Date 11.10.25 - Subject: Software scalabiility. Software scalability means your application can handle more users, requests, or data without crashing or slowing down too much. It ensures performance stays consistent as demand rises, it is cost efficient, and ensures future growth is possible without rebuilding the system.
+
+Date 11.17.25 - Subject: Data Breaches. A data breach is when someone gains unotherized access to information they shouldn't have. Tech companies hold large amounts of sensitive data, so when a breach occurs, they will struggle with legal, financial, reputational, and operational issues. Because of these things, tech companies invest heavily in cybersecurity.
